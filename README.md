@@ -5,4 +5,3 @@
 ![ss-pvz-sun-pointers2](https://user-images.githubusercontent.com/85774070/216293508-88527be4-ce6a-4973-9465-8f6d22bf1e29.png)
 
 ![execute lua script yes](https://github.com/pxcvbe/junk-image/assets/85774070/7d181e39-dfbf-4625-b4a2-576e4b212f00)
-
