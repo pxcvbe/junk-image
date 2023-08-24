@@ -8,3 +8,6 @@
 ![check attach target process](https://github.com/pxcvbe/junk-image/assets/85774070/563bb07e-82ff-4eb9-9a8b-14a252737f09)
 ![check checkme fiture](https://github.com/pxcvbe/junk-image/assets/85774070/e41d152f-9daf-447a-8438-81f6c06f40ae)
 ![disable compactmode](https://github.com/pxcvbe/junk-image/assets/85774070/d050417a-9ee1-41b3-aa98-34a803c4f4e7)
+
+![ss-preview2](https://github.com/pxcvbe/junk-image/assets/85774070/fb4d7c1a-e7a4-4d02-85cd-1c0e01927a66)
+
