@@ -9,3 +9,5 @@
 ![check checkme fiture](https://github.com/pxcvbe/junk-image/assets/85774070/e41d152f-9daf-447a-8438-81f6c06f40ae)
 ![disable compactmode](https://github.com/pxcvbe/junk-image/assets/85774070/d050417a-9ee1-41b3-aa98-34a803c4f4e7)
 
+![result (2)](https://github.com/pxcvbe/junk-image/assets/85774070/ba935ef6-9649-4179-8055-899499c841a9)
+![result](https://github.com/pxcvbe/junk-image/assets/85774070/cfa86022-f070-477e-b2ed-d7f9e220d2e6)
